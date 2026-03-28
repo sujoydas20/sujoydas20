@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Sujoy 👋
 
-<!--
-**sujoydas20/sujoydas20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- B.Sc. Chemistry (6th Semester)
+- Interested in Computational Chemistry & Materials Science
+- Learning Density Functional Theory (DFT)
 
-Here are some ideas to get you started:
+## Skills
+- Quantum ESPRESSO (SCF, NSCF, Band Structure, DOS)
+- Basic Python (NumPy, Matplotlib)
+- Linux (WSL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Work
+- Graphene electronic structure study using DFT
+- Band structure and Density of States (DOS) analysis
+
+## Goals
+- Pursue research in Computational Chemistry / Materials Science
