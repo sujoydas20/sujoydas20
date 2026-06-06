@@ -1,18 +1,7 @@
-# Hi, I'm Sujoy 👋
+Hi, I am Sujoy Das, a third-year undergraduate Chemistry student at Rabindranath Thakur Vishwavidyalaya, Hojai, Assam, India.
 
-## About Me
-- B.Sc. Chemistry (6th Semester)
-- Interested in Computational Chemistry & Materials Science
-- Learning Density Functional Theory (DFT)
+I recently developed an interest in computational chemistry and its applications in materials science during my summer internship at Visva-Bharati University, West Bengal, India, under the supervision of Prof. Pranab Sarkar. During the internship, I completed a project titled "Structural Engineering of Two-Dimensional Materials Using Computational Chemistry." The project involved a literature review of four important two-dimensional materials: graphene, borophene, covalent triazine frameworks (CTFs), and molybdenum disulfide (MoS₂). Through this work, I gained an understanding of how structural modifications such as doping, surface adsorption, and vacancy defects influence the physical and chemical properties of materials.
 
-## Skills
-- Quantum ESPRESSO (SCF, NSCF, Band Structure, DOS)
-- Basic Python (NumPy, Matplotlib)
-- Linux (WSL)
+Motivated by this experience, I further explored graphene using Quantum ESPRESSO. Following established Quantum ESPRESSO tutorials and community resources, I performed self-consistent field (SCF) and non-self-consistent field (NSCF) calculations and generated the density of states (DOS) and electronic band structure of graphene. I also worked to understand key concepts associated with graphene's electronic properties, including the K-point, Dirac cone, and the vanishing density of states at the Fermi level.
 
-## Current Work
-- Graphene electronic structure study using DFT
-- Band structure and Density of States (DOS) analysis
-
-## Goals
-- Pursue research in Computational Chemistry / Materials Science
+I am currently developing my programming skills in Python and scientific computing libraries such as NumPy and Matplotlib. My academic interests include computational chemistry, quantum chemistry, electronic structure theory, and materials modeling, and I am eager to continue learning and contributing to research in these areas.
